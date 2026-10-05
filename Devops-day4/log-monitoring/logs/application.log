@@ -1,0 +1,15 @@
+2026-10-05 09:00:01 INFO Application started
+2026-10-05 09:02:15 INFO User login successful
+2026-10-05 09:05:30 INFO Database connection established
+2026-10-05 09:08:42 WARNING Database response slow
+2026-10-05 09:10:05 INFO User login successful
+2026-10-05 09:12:18 ERROR Database connection failed
+2026-10-05 09:13:20 INFO Application retrying database connection
+2026-10-05 09:14:02 INFO Database connection established
+2026-10-05 09:16:45 WARNING High memory usage detected
+2026-10-05 09:18:11 INFO User logout successful
+2026-10-05 09:20:33 ERROR Payment service unavailable
+2026-10-05 09:21:10 INFO Payment service retry started
+2026-10-05 09:22:25 INFO Payment service recovered
+2026-10-05 09:25:40 INFO User login successful
+2026-10-05 09:27:55 ERROR Application request failed
